@@ -1,0 +1,10 @@
+Let's make a game!
+                name: Idle Spaceship
+		author: Maximus
+		desc: My first game. build a spaceship
+		created:04/08/2021
+		updated:04/08/2021
+		version:1.1
+Settings
+		building cost increase:117%
+		building cost refund:23%
